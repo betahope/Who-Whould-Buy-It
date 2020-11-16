@@ -1,6 +1,6 @@
 <p id="top"></p>
 
-![Entrepreneur's Bookshelf Icon](https://i.imgur.com/JJC2MEUt.jpg)
+![Who Would Buy It Icon](https://i.imgur.com/QAP37AY.png)
 
 ---
 
